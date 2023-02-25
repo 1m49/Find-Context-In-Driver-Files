@@ -11,10 +11,10 @@ I'm a Backend Developer 💻, PES 2021 😎 and love coffee ☕
 </h2> 
 
 <h2> 🔥Use of this script: <h2/>
-<h4>Using this script, you can sort the files that have the same extension in their respective folders .
+<h4>Using this script, you can easily find it if you have forgotten a text or a piece of your code and you don't know which file you wrote it in and you are looking for it. Just put that text in the search-term and this program will show you the files that contain the text you gave it.
 <br>
 <br>
-<h3>For example: </h3> we have 100 files with different extensions, by running this script, all the files will be placed in the folder related to them based on the extensions they have (Python files in the Python folder - Excel files in the Excel folder - PD files F inside the PDF folder and...)<h4/>
+<h3>For example: </h3> <h4>I am looking for the word "fucking", I put this value in the search item and by running the script, inside the drive I specified or even all the drives if I specify, in the folders and subfolders, I look for files with the word "faking" in them. It will be written and it will show you the name and path of those files<h4/>
 <hr><br>
 I love to learn different things and I try to improve my skills every day 
 
