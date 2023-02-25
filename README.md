@@ -11,11 +11,8 @@ I'm a Backend Developer 💻, PES 2021 😎 and love coffee ☕
 </h2> 
 
 <h1> Tutorial Video <h1>
-  <video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/89096381/221369159-bd03bea5-1f7a-41a2-899c-0816ff7d6f8a.mp4" type="video/mp4">
-  <source src="https://user-images.githubusercontent.com/89096381/221369159-bd03bea5-1f7a-41a2-899c-0816ff7d6f8a.mp4" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+<video src='https://user-images.githubusercontent.com/89096381/221369159-bd03bea5-1f7a-41a2-899c-0816ff7d6f8a.mp4' width=180/>
+
 
 <h2> 🔥Use of this script: <h2/>
 <h4>Using this script, you can easily find it if you have forgotten a text or a piece of your code and you don't know which file you wrote it in and you are looking for it. Just put that text in the search-term and this program will show you the files that contain the text you gave it.
