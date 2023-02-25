@@ -18,7 +18,7 @@ I'm a Backend Developer 💻, PES 2021 😎 and love coffee ☕
 <h4>Using this script, you can easily find it if you have forgotten a text or a piece of your code and you don't know which file you wrote it in and you are looking for it. Just put that text in the search-term and this program will show you the files that contain the text you gave it.
 <br>
 <br>
-<h3>For example: </h3> <h4>I am looking for the word "fucking", I put this value in the search item and by running the script, inside the drive I specified or even all the drives if I specify, in the folders and subfolders, I look for files with the word "faking" in them. It will be written and it will show you the name and path of those files<h4/>
+<h3>For example: </h3> <h4>I am looking for the word "fucking", I put this value in the search-term and by running the script, inside the drive I specified or even all the drives if I specify, in the folders and subfolders, I look for files with the word "fckking" in them. It will be written and it will show you the name and path of those files<h4/>
 
 <h3>Be careful: </h3> try not to click on all extensions and all drives because your system will hang. For example, you can put it on a drive and specify a specific file extension if you don't have a strong system
 <hr><br>
