@@ -15,6 +15,8 @@ I'm a Backend Developer 💻, PES 2021 😎 and love coffee ☕
 <br>
 <br>
 <h3>For example: </h3> <h4>I am looking for the word "fucking", I put this value in the search item and by running the script, inside the drive I specified or even all the drives if I specify, in the folders and subfolders, I look for files with the word "faking" in them. It will be written and it will show you the name and path of those files<h4/>
+
+<h3>Be careful: </h3> try not to click on all extensions and all drives because your system will hang. For example, you can put it on a drive and specify a specific file extension if you don't have a strong system
 <hr><br>
 I love to learn different things and I try to improve my skills every day 
 
